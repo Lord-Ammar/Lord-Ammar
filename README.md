@@ -4,7 +4,7 @@
 </p>
 
 ## Hello There
-<a href="//youtube.com/c/AmmarBN"><img align="center" src="https://cardivo.vercel.app/api?name=Lord-Ammar&description=Halo,%20I%27m%20Nathan%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Lord-Ammar&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Lord-Ammar&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+<a href="//youtube.com/c/AmmarBN"><img align="center" src="https://cardivo.vercel.app/api?name=Lord-Ammar&description=Halo,%20I%27m%20Ammar Burhanuddin Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Lord-Ammar&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Lord-Ammar&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 ## Contact Me In
 <p>
   <a href="https://instagram.com/lord_ammar_quoteser"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
