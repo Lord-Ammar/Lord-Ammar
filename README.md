@@ -1,6 +1,6 @@
 </h1>
 <p align="center">
-  <img src="https://i.ibb.co/cyM9YyH/logoku.jpg" />
+  <img src="https://i.ibb.co/4V1QzHD/20211215-173647.png" />
 </p>
 
 ## Hello There
@@ -31,7 +31,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Lord-Ammar&repo=Ip-Lokasi&theme=dark)
 
 ## Rest Api
-<a href="https://webraku.xyz"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
+<a href="https://webraku.xyz"><img src="https://i.ibb.co/S64xkVB/20220126-152502.jpg" width="100" height="100"></a> 
 
 ## NPMJS
 <p>
