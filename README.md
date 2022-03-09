@@ -8,7 +8,7 @@
 ## Contact Me In
 <p>
   <a href="https://instagram.com/lord_ammar_quoteser"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6282229683561"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://api.whatsapp.com/send/?phone=6288229683561&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ"><img src="https://img.shields.io/badge/YouTube-AmmarBN-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ZEROBOT7" /><br>
    <a href="https://github.com/Lord-Ammar"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://bit.ly/AmmarExecuted"><img src="https://img.shields.io/youtube/channel/subscribers/UCFeZ5BGt8lbOZwIj2MNOlIQ?style=social" /> <br>
