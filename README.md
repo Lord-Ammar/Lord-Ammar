@@ -31,7 +31,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Lord-Ammar&repo=Ip-Lokasi&theme=dark)
 
 ## Rest Api
-<a href="https://webraku.xyz"><img src="https://i.ibb.co/S64xkVB/20220126-152502.jpg" width="100" height="100"></a> 
+<a href="https://simple-api-lord-bot.herokuapp.com/"><img src="https://i.ibb.co/S64xkVB/20220126-152502.jpg" width="100" height="100"></a> 
 
 ## NPMJS
 <p>
